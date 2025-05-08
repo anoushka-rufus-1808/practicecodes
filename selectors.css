@@ -1,0 +1,13 @@
+#redd{
+    color: red;
+}
+#blue{
+    color: blueviolet;
+}
+h2,p{  /*grouping*/
+    color: aquamarine;
+}
+div p{   /*nesting*/
+    color: palevioletred;
+}
+/*assignment   >child selector  ~next sibling    +general sibling*/

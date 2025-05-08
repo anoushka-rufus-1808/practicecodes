@@ -1,0 +1,15 @@
+/*background-color
+background-image
+background-repeat
+background-attachment
+background-position
+background-size
+shorthand background:
+*/
+body{
+    background-image: url("3.png");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,11 @@
+p{
+    color: blue;
+}
+h1{
+    color: rgb(255,200,100);
+    border: 3px solid black;
+    border-radius: 30px;
+}
+body{
+    background-color: bisque;
+}
